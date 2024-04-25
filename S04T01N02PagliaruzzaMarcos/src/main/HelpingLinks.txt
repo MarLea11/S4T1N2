@@ -1,0 +1,9 @@
+Request Param SpringBoot
+https://www.baeldung.com/spring-request-param
+
+Path Variable SpringBoot
+https://www.baeldung.com/spring-pathvariable
+
+Request Param & PathVariable SpringBoot
+https://www.baeldung.com/spring-requestparam-vs-pathvariable
+
